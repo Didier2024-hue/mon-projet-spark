@@ -256,4 +256,4 @@ Dockerized data infrastructure
 
 Production-oriented scripting
 
-📌 This project was developed as part of a Data Engineering evaluation and is designed to reflect real-world ETL constraints and best practices.
+
